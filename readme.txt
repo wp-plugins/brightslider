@@ -24,5 +24,8 @@ If you've got development chops, you shouldn't find it too difficult to integrat
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed broken author link.
+
 = 1.0 =
 * First release
